@@ -1,7 +1,7 @@
 package com.examly.springapp.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
+import java.persistence.Entity;
+import java.persistence.Id;
 
 @Entity
 public class Bill {
